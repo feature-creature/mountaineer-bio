@@ -1,0 +1,64 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+body{
+    font-family: "EB Garamond", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#heady, #heady canvas{
+    margin:0;
+    padding:0;
+}
+
+.main-content h1{
+    color: #111;
+    font-size: 2.5em;
+}
+.main-content h2,.main-content h3, .network-name{
+    color: #ea7600;
+    color: #222;
+}
+
+a{
+    color: #111;
+} 
+
+a:hover{
+    color: #ea7600;
+    text-decoration: none;
+}
+
+img{
+      filter: grayscale(100%);
+
+}
+img.bio{
+    max-width: 180px;
+}
+
+.btn{
+    color: #606c71;
+    background-color: rgba(243, 243, 243, 1);
+    border-color: rgba(255, 255, 255, 1);
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+    transition-property: color, background-color, border-color;
+    transition-duration: 1s, 1s, 1s;
+    transition-timing-function: ease, ease, ease;
+    transition-delay: 0s, 0s, 0s;
+    background-image: linear-gradient(120deg, #f3f3f3, #fff );
+}
+
+.btn:hover {
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-color: rgba(234, 234, 234, 0.8);
+    background-image: linear-gradient(120deg, #f3f3f3, #f3f3f3 );
+    color: #222;
+}
+
+.btn.current{
+    color: #222;
+    background-image: linear-gradient(120deg, #dcdcdc, #f3f3f3 );
+}
