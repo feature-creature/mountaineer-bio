@@ -4,7 +4,7 @@ layout: default
 
 [Home](index.html){: .btn}
 [About](about.html){: .btn}
-[Services](services.html){: .btn}
+<!-- [Services](services.html){: .btn} -->
 [Contact](contact.html){: .btn.current}
 
 ## Contact

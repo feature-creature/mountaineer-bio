@@ -7,25 +7,36 @@ body{
     font-family: "EB Garamond", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-#heady, #heady canvas{
-    margin:0;
-    padding:0;
-}
 #heady{
-    min-height: calc(35vh );
+    img {
+        width: 350px;
+        display:block;
+        margin:auto;
+    } 
+    background-image: linear-gradient(150deg, #287AB8, #f5f5f5 );
+}
+
+.main-content{
+
+    font-size: 1.25rem;
+}
+
+.main-content p:first-child{
+    text-align:center;
 }
 
 .main-content h1{
-    color: #111;
+    color: #287AB8;
     font-size: 2.5em;
 }
 .main-content h2,.main-content h3, .network-name{
     color: #ea7600;
     color: #222;
+    color: #287AB8;
 }
 
 a{
-    color: #111;
+    color: #000;
 } 
 
 a:hover{
@@ -33,8 +44,11 @@ a:hover{
     text-decoration: none;
 }
 
+p{
+    color: #555;
+}
 img{
-      filter: grayscale(100%);
+    // filter: grayscale(100%);
 
 }
 img.bio{
@@ -42,9 +56,11 @@ img.bio{
 }
 
 .btn{
+    text-align: center;
+    font-size: 1em;
     color: #606c71;
     background-color: rgba(243, 243, 243, 1);
-    border-color: rgba(255, 255, 255, 1);
+    border-color: rgba(234, 234, 234, 0.8);
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     transition-property: color, background-color, border-color;
     transition-duration: 1s, 1s, 1s;
@@ -56,12 +72,15 @@ img.bio{
 .btn:hover {
     text-decoration: none;
     background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(234, 234, 234, 0.8);
+    border-color: rgba(0,0,0, 1);
     background-image: linear-gradient(120deg, #f3f3f3, #f3f3f3 );
     color: #222;
 }
 
 .btn.current{
     color: #222;
-    background-image: linear-gradient(120deg, #dcdcdc, #f3f3f3 );
+    //background-image: linear-gradient(120deg, #dcdcdc, #f3f3f3 );
+    border-color: rgba(0,0,0, 1);
+    font-weight:bold;
+    background-image: linear-gradient(320deg, #b9d4e8, #fff );
 }

@@ -7,21 +7,23 @@ layout: default
 [Services](services.html){: .btn.current}
 [Contact](contact.html){: .btn}
 
-## Services 
+## Core Specialty Services 
 Mountaineer Bio provides specialty services supporting discovery, development, and life cycle management of treatments for infectious diseases and immunologic disorders.
-
-### Business Strategy
-
-* Scientific engagement for Life Cycle Management
-* Target Product Profile (TPP) and Asset Product Profile (AAP)
-* R&D organization and governance processes
-* Due Diligence Reviews
 
 ### Translational Research
 
-* Study design and oversight of *in vitro* and preclinical efficacy models supporting Investigational New Drug Applications (IND)/Clinical Trial Authorizations (CTA) to New Drug Application (NDA) or Biological Licensing Application (BLA)
-* Biomarker and companion diagnostics in early and late phase clinical trials
+* Integrated, strategic approach to supporting Investigational New Drug Applications (IND)/Clinical Trial Authorizations (CTA) to New Drug Application (NDA) or Biological Licensing Application (BLA)
+* Study design and oversight of in vitro and preclinical efficacy models
+* Novel endpoints, biomarkers, and companion diagnostics in early and late phase clinical trials
 * Contract Research Laboratory/Organization (CRL/CRO) selection and study design
+* Engagement with funding agencies
+
+### Business Strategy
+
+* Target Product Profile (TPP) and Asset Product Profile (AAP)
+* Development and optimization of R&D organization and governance processes
+* Due Diligence Reviews
+* Scientific engagement with Medical Affairs and Commercial organizations to augment Life Cycle Management
 
 ### Authorship, Data Interpretation & Integration
 
@@ -30,3 +32,4 @@ Mountaineer Bio provides specialty services supporting discovery, development, a
 * Primary research manuscripts
 
 Mountaineer Bio will provide other types of project support as needed.
+

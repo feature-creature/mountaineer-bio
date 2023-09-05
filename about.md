@@ -4,7 +4,7 @@ layout: default
 
 [Home](index.html){: .btn}
 [About](about.html){: .btn.current}
-[Services](services.html){: .btn}
+<!-- [Services](services.html){: .btn} -->
 [Contact](contact.html){: .btn}
 
 ## About
@@ -21,18 +21,10 @@ Founder and Manager
 <br>
 Mountaineer Bio, LLC
 
-**Adjunct Assistant Professor**
+**Adjunct Faculty**
 <br>
-Department of Immunology
+Duke University Medical Center, Department of Immunology
 <br>
-Duke University Medical Center
+High Point University, Department of Biology
 
-Jim Demarest has more than 30 years of experience in the pre-clinical, clinical, and translational research space. Twenty-three of those years are in the pharma R&D context where he also gained experience in diagonstics, product commercialization and life-cycle management, interactions with Regulatory Authorities and global Key Opinion Leaders, and establishment / maintenance of public-private partnerships. 
-
-Jim has worked at Dr Anthony Fauci's laboratory at the NIH, the Duke
-University University Medical Center, GlaxoWellcome, GlaxoSmithKline, ViiV Healthcare, and AbbVie Immunology. He was a founding member of the scientific and medical organization at [ViiV Healthcare](https://viivhealthcare.com/) and contributed significantly to shaping its evolving strategy and associated success. 
-
-Jim understands from firsthand experience the technical and business aspects of building a successful company delivering medicines that meet unmet medical needs.
-Through his involvement with establishment/launch of collaborations via public-private partnerships and/or business development, Jim understands what pharma companies expect from partnerships with biotech and/or academia. He has also worked closely with the medical affiars and commerical/marketing organizations on numberous international, regional, and local market projects/campaigns. Jim brings a wealth of experience spanning basic and translational/clinical research in
-government, academic and industry settings, drug discovery and development from concept to launch, regulatory affairs and marketing strategies, business development and portfolio strategy, industry-academic partnerships, and entrepreneurship.
-
+With >31 years of experience (23+ in pharma), Jim brings strategic translational approaches that break down silos in order to advance drug discovery and development to commercialization.  His career trajectory took him from NIH (Dr. Anthony Fauci’s laboratory) to Duke University, to GlaxoWellcome/GSK, ViiV Healthcare, AbbVie Immunology, and consultancies.  Jim was a founding member of the scientific and medical organization at ViiV Healthcare (launched in Nov 2009; ViiV), an HIV-focused joint venture of GSK and Pfizer.  In this independent and virtual R&D organization, he influenced the evolving discovery and development strategy within ViiV and its key discovery partners that led to a change in portfolio direction, identified and initiated public-private partnerships with PENTA Foundation and the French ANRS, defined and led the R&D effort to alleviate a post-marketing commitment for a companion diagnostic, and co-designed the internal discovery and early clinical development processes new to ViiV following acquisition of the Bristol Myers Squibb HIV drug discovery unit.  He has also worked closely with medical affairs and commercial/marketing organizations on global, regional, and local market projects/campaigns associated with maraviroc and the dolutegravir-based portfolio at ViiV and Adalimumab and Risankizumab at AbbVie.  Jim knows from firsthand experience the components necessary to strategically integrate the scientific, clinical, regulatory, medical affairs, and commercial work streams to bring forward relevant medicines that address unmet patient needs.  He understands what is essential for successful public-private pharma partnerships with biotech and/or academia as well as viable business development opportunities.  More recently, he is also a co-inventor on a small molecule discovery program with Clear Creek Bio that advanced to a research collaboration with Pfizer CCB-PFE Link.  I bring this breadth of experience to advance innovative approaches for R&D.
