@@ -15,7 +15,7 @@ Mountaineer Bio is an independent consulting firm providing specialist services 
 <br>
 Jim Demarest, PhD
 
-**Advisor; Fractional Chief Development Officer**
+**Biotech & Pharmaceutical Executive | R&D Consultant Advisor**
 <br>
 Founder and Manager
 <br>
